@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" />][YouTube]
-[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg" />][Twitter]
+[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][Twitter]
 [<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" />][Twitch]
 [<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" />][Instagram]
 
