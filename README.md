@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icon@v3/icons/youtube.svg" />][YouTube]
-[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitch.svg" />][Twitch]
-[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/youtube.svg" />][YouTube]
+[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitch.svg" />][Twitch]
+[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][Instagram]
 
 <br />
 <br />
