@@ -13,7 +13,7 @@
 [<img align="left" alt="Croc3LL | Twitter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg" />][Twitter]
 [<img align="left" alt="Croc3LL | Twitch" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" />][Twitch]
 [<img align="left" alt="Croc3LL | Instagram" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" />][Instagram]
-[<img align="left" alt="Croc3LL | Discord" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Discord_White_Text_Logo_%282015-2021%29.svg" />][Discord]
+[<img align="left" alt="Croc3LL | Discord" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Discord_White_Text_Logo_%282015-2021%29.svg" />][Discord]
 
 <br />
 <br />
