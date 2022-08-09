@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Croc3LL | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" />][YouTube]
-[<img align="left" alt="Croc3LL | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg" />][Twitter]
-[<img align="left" alt="Croc3LL | Twitch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" />][Twitch]
-[<img align="left" alt="Croc3LL | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" />][Instagram]
-[<img align="left" alt="Croc3LL | Discord" width="78px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Discord_white_textlogo_%282021%29.svg" />][Discord]
+[<img align="left" alt="Croc3LL | YouTube" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" />][YouTube]
+[<img align="left" alt="Croc3LL | Twitter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg" />][Twitter]
+[<img align="left" alt="Croc3LL | Twitch" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" />][Twitch]
+[<img align="left" alt="Croc3LL | Instagram" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" />][Instagram]
+[<img align="left" alt="Croc3LL | Discord" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Discord_White_Text_Logo_%282015-2021%29.svg" />][Discord]
 
 <br />
 <br />
