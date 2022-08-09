@@ -3,8 +3,8 @@
 ## I'm a Student and i am a CS enthusiast!
  - I'm currently doing BCA in Cybersecurity
  - I'm Trying to Learn as much as i can XD
- - My Hobbies are Streaming/Making Videos/Making illustrations/Editing    Videos/Gaming/Watch Anime
- - 2022 Goals: Learn as much as i can from my mistakes and Grow as an IT Guy LoL
+ - My Hobbies are Streaming/Making Videos/Making illustrations/Editing videos/Gaming/Watch Anime
+ - 2022 Goals: Learn as much as i can from my mistakes and Grow as an IT(Streamer/YouTube/Gamer/Artist) guy LoLXD
 
 
 ### Connect with me:
