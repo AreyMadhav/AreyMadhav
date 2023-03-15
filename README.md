@@ -7,6 +7,13 @@
  - 2023 Goals: Learn as much as i can from my mistakes and Grow as an IT(Streamer/YouTube/Gamer/Artist) guy
 
 
+### My Hardware:
+ - Ryzen 7 3700x
+ - 64 GB RAM 3200Mhz
+ - RTX 3080 Gaming X Trio
+ - X570 A-Pro Mobo
+
+
 ### Connect with me:
 
 [<img align="left" alt="Croc3LL | YouTube" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" />][YouTube]
