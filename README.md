@@ -8,10 +8,10 @@
 
 
 ### My Hardware:
- - Ryzen 7 3700x
- - 64 GB RAM 3200Mhz
- - RTX 3080 Gaming X Trio
- - X570 A-Pro Mobo
+ - CPU: Ryzen 7 3700x
+ - RAM: G.SKILL Trident Z RGB 3200Mhz (64GB)
+ - GPU: RTX 3080 Gaming X Trio (10GB)
+ - Mobo: X570 A-Pro
 
 
 ### Connect with me:
