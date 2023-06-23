@@ -8,10 +8,20 @@
 
 
 ### My Hardware:
+PC
  - CPU: Ryzen 7 3700x
  - RAM: G.SKILL Trident Z RGB 3200Mhz (64GB)
  - GPU: RTX 3080 Gaming X Trio (10GB)
  - Mobo: X570 A-Pro
+Laptop 1
+ - CPU: i3 6100u
+ - RAM: 8GB
+ - GPU: Intel HD 510
+Laptop 2:
+ - CPU: Ryzen 5 4600H
+ - RAM: 16GB
+ - GPU1: Vega8
+ - GPU2: GTX 1650
 
 
 ### Connect with me:
