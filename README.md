@@ -1,7 +1,7 @@
 ### Hi there, this is Madhav Tyagi - aka Croc3LL (pronounced as cro cell)
 
 ## I'm a Student and i am a CS enthusiast!
- - I'm currently doing BCA in Cybersecurity
+ - I'm currently doing BCA in Cybersecurity from Manav Rachna International Institute of Research and Studies
  - I'm Trying to Learn as much as i can XD
  - My Hobbies are Streaming/Making Videos/Making illustrations/Editing videos/Gaming/Watch Anime/Coding
  - 2023 Goals: Learn as much as i can from my mistakes and Grow as an IT(Streamer/YouTube/Gamer/Artist) guy
