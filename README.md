@@ -1,4 +1,4 @@
-### Hi there, this is Madhav Tyagi - aka Croc3LL (pronounced as cro cell)
+### Hi there, this is Madhav Tyagi
 
 ## I'm a Student and i am a CS enthusiast!
  - I'm currently doing BCA in Cybersecurity from Manav Rachna International Institute of Research and Studies
