@@ -28,9 +28,6 @@ Laptop 2:
  - GPU2: GTX 1650
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cb55c14-d388-4580-a03f-0b8a6d23a845" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
 ### Connect with me:
 
 [<img align="left" alt="Croc3LL | YouTube" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" />][YouTube]
