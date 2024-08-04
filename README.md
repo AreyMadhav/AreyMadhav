@@ -1,11 +1,29 @@
 ### Hi there, this is Madhav Tyagi
+# Welcome to My GitHub Profile!
 
-## I'm a Student and i am a CS enthusiast!
- - I'm currently doing BCA in Cybersecurity from Manav Rachna International Institute of Research and Studies
- - I'm Trying to Learn as much as i can XD
- - My Hobbies are Streaming/Making Videos/Making illustrations/Editing videos/Gaming/Watch Anime/Coding
- - 2023 Goals: Learn as much as i can from my mistakes and Grow as an IT(Streamer/YouTube/Gamer/Artist) guy
+## About Me
+I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from Manav Rachna International Institute of Research and Studies. I'm passionate about learning and exploring various aspects of technology, and I'm always eager to expand my knowledge and skills.
 
+## Certifications
+- **ISC2 Member**
+- **Certified in Cybersecurity (CC)**
+
+## Skills and Interests
+- **CTF Player**
+- **Pentester**
+- **Cyber Threat Intelligence & Management**
+- **Data Forensics**
+- **Part-Time Game Developer**
+- **Streamer**
+
+## Hobbies
+- Streaming
+- Making Videos
+- Creating Illustrations
+- Editing Videos
+- Gaming
+- Watching Anime
+- Coding
 
 ### My Hardware:
 PC
