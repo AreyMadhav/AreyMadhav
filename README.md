@@ -42,6 +42,16 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 - **GPU1:** Vega8
 - **GPU2:** GTX 1650
 
+## 📊 GitHub Stats
+
+![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areymadhav&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areymadhav&layout=compact&theme=radical)
+
+
+
 ## 🌐 Connect with Me
 
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg)][YouTube]
