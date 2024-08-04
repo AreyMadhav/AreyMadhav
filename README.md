@@ -51,19 +51,16 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areymadhav&layout=compact&theme=radical)
 
 
-
-## 🌐 Connect with Me
-
 ## 🌐 Connect with Me
 
 <a href="https://www.youtube.com/c/AreyMadhav" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" alt="YouTube" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" alt="YouTube" width="100px"/>
 </a>
 <a href="https://x.com/MadhavWasTaken" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="50px"/>
 </a>
 <a href="https://www.twitch.tv/AreyMadhav" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" alt="Twitch" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" alt="Twitch" width="100px"/>
 </a>
 <a href="https://www.instagram.com/AreyMadhav/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" alt="Instagram" width="50px"/>
