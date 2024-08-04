@@ -1,14 +1,16 @@
-### Hi there, this is Madhav Tyagi
-# Welcome to My GitHub Profile!
+# Hi there, this is Madhav Tyagi! 👋
+### Welcome to My GitHub Profile!
+
+![GitHub Banner](https://user-images.githubusercontent.com/banner-image-url)
 
 ## About Me
 I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from Manav Rachna International Institute of Research and Studies. I'm passionate about learning and exploring various aspects of technology, and I'm always eager to expand my knowledge and skills.
 
-## Certifications
+## 🎓 Certifications
 - **ISC2 Member**
 - **Certified in Cybersecurity (CC)**
 
-## Skills and Interests
+## 🛠 Skills and Interests
 - **CTF Player**
 - **Pentester**
 - **Cyber Threat Intelligence & Management**
@@ -16,7 +18,7 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 - **Part-Time Game Developer**
 - **Streamer**
 
-## Hobbies
+## 🎨 Hobbies
 - Streaming
 - Making Videos
 - Creating Illustrations
@@ -25,37 +27,33 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 - Watching Anime
 - Coding
 
-### My Hardware:
-PC
- - CPU: Ryzen 7 3700x
- - RAM: G.SKILL Trident Z RGB 3200Mhz (64GB)
- - GPU: RTX 3080 Gaming X Trio (10GB)
- - Mobo: X570 A-Pro
+## 💻 My Hardware
+### PC
+- **CPU:** Ryzen 7 3700x
+- **RAM:** G.SKILL Trident Z RGB 3200Mhz (64GB)
+- **GPU:** RTX 3080 Gaming X Trio (10GB)
+- **Motherboard:** X570 A-Pro
 
+### Laptop 1
+- **CPU:** i3 6100u
+- **RAM:** 8GB
+- **GPU:** Intel HD 510
 
-Laptop 1
- - CPU: i3 6100u
- - RAM: 8GB
- - GPU: Intel HD 510
+### Laptop 2
+- **CPU:** Ryzen 5 4600H
+- **RAM:** 16GB
+- **GPU1:** Vega8
+- **GPU2:** GTX 1650
 
+## 🌐 Connect with Me
 
-Laptop 2:
- - CPU: Ryzen 5 4600H
- - RAM: 16GB
- - GPU1: Vega8
- - GPU2: GTX 1650
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg)][YouTube]
+[![X](https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg)][X]
+[![Twitch](https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg)][Twitch]
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg)][Instagram]
+[![Discord](https://upload.wikimedia.org/wikipedia/commons/e/e3/Discord_White_Text_Logo_%282015-2021%29.svg)][Discord]
 
-
-### Connect with me:
-
-[<img align="left" alt="Croc3LL | YouTube" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" />][YouTube]
-[<img align="left" alt="Croc3LL | Twitter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" />][X]
-[<img align="left" alt="Croc3LL | Twitch" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" />][Twitch]
-[<img align="left" alt="Croc3LL | Instagram" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" />][Instagram]
-[<img align="left" alt="Croc3LL | Discord" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Discord_White_Text_Logo_%282015-2021%29.svg" />][Discord]
-
-<br />
-<br />
+---
 
 [YouTube]: https://www.youtube.com/c/Croc3LL
 [X]: https://x.com/MadhavWasTaken
