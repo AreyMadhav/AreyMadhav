@@ -54,7 +54,7 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 ## 🌐 Connect with Me
 
 <a href="https://www.youtube.com/c/AreyMadhav" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" alt="YouTube" width="100px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" alt="YouTube" width="50px"/>
 </a>
 <a href="https://x.com/MadhavWasTaken" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="50px"/>
