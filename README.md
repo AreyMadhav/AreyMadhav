@@ -60,7 +60,7 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="50px"/>
 </a>
 <a href="https://www.twitch.tv/AreyMadhav" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" alt="Twitch" width="100px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" alt="Twitch" width="50px"/>
 </a>
 <a href="https://www.instagram.com/AreyMadhav/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" alt="Instagram" width="50px"/>
