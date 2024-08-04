@@ -5,7 +5,7 @@
 I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from Manav Rachna International Institute of Research and Studies. I'm passionate about learning and exploring various aspects of technology, and I'm always eager to expand my knowledge and skills.
 
 ## 🎓 Certifications
-- **Certified in Cybersecurity (CC)**
+- **ISC2 Certified in Cybersecurity (CC)**
 
 ## 🛠 Skills and Interests
 - **CTF Player**
