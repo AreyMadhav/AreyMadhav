@@ -45,11 +45,12 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 
 ## 📊 GitHub Stats
 
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=croc3ll&show_icons=true&theme=radical)
+![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreyMadhav&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=croc3ll&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreyMadhav&layout=compact&theme=radical)
+
 
 ## 🌐 Connect with Me
 
