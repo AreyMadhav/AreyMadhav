@@ -7,6 +7,7 @@ I'm a student and a CS enthusiast currently pursuing a BCA in Cybersecurity from
 ## 🎓 Certifications
 - **ISC2 Member**
 - **Certified in Cybersecurity (CC)**
+- **DP-900**
 
 ## 🛠 Skills and Interests
 - **CTF Player**
