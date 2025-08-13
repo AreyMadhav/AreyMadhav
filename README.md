@@ -18,8 +18,6 @@
 - **Streamer**
 
 ## 🎨 Hobbies
-- Streaming
-- Making Videos
 - Creating Illustrations
 - Editing Videos
 - Gaming
