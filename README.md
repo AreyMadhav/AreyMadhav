@@ -7,7 +7,7 @@ I’m a cybersecurity researcher, reverse engineering enthusiast, and part-time 
 When I’m not digging into malware, exploits, or CTFs, you’ll probably catch me gaming, streaming, or sketching random ideas into illustrations. Basically: code, create, repeat.  
 
 ## Certifications  
-- **CEH**  
+- **CEH Master**  
 - **Certified in Cybersecurity (CC)**  
 - **DP-900**
 - **SC-900**
