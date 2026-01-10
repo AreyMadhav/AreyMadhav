@@ -1,70 +1,96 @@
-# Hi there, I’m AreyMadhav! 
-### Welcome to my corner of GitHub 
+<!-- RED & BLACK HACKER THEME README -->
 
-## About Me  
-I’m a cybersecurity researcher, reverse engineering enthusiast, and part-time game developer. I love breaking things apart (legally, don’t worry), understanding how they work, and sometimes putting them back together in smarter ways.  
+<h1 align="center">Hi, I’m AreyMadhav </h1>
+<h3 align="center">Welcome to my GitHub // expect binaries, exploits & chaos</h3>
 
-When I’m not digging into malware, exploits, or CTFs, you’ll probably catch me gaming, streaming, or sketching random ideas into illustrations. Basically: code, create, repeat.  
-
-## Certifications  
-- **CEH Master**  
-- **Certified in Cybersecurity (CC)**  
-- **DP-900**
-- **SC-900**
-
-## Skills & Interests  
-- **CTF Player**
-- **Pentester**
-- **Cyber Threat Intelligence & Management**
-- **Digital Forensics**
-- **Part-Time Game Developer**
-
-## Hobbies  
-- Creating Illustrations  
-- Video Editing  
-- Gaming
-- Watching Anime  
-- Coding & Experimenting  
-
-## My Hardware Setup  
-### Desktop  
-- **CPU:** Ryzen 7 3700x  
-- **RAM:** 64GB G.SKILL Trident Z RGB (3200MHz)  
-- **GPU:** RTX 3080 Gaming X Trio (10GB)  
-- **Motherboard:** MSI X570 A-Pro  
-
-### Laptop 1 (OG survival kit)  
-- **CPU:** Intel i3 6100u  
-- **RAM:** 8GB  
-- **GPU:** Intel HD 510  
-
-### Laptop 2 (daily driver)  
-- **CPU:** Ryzen 5 4600H  
-- **RAM:** 16GB  
-- **GPU1:** Vega 8  
-- **GPU2:** GTX 1650  
-
-## 📊 GitHub Stats  
-![AreyMadhav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreyMadhav&show_icons=true&theme=radical)  
-
-## 💻 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreyMadhav&layout=compact&theme=radical)  
-
-## 🌐 Connect with Me  
-<a href="https://www.youtube.com/c/AreyMadhav" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/YouTube_social_dark_circle_%282017%29.svg" alt="YouTube" width="50px"/>
-</a>
-<a href="https://x.com/AreyMadhav" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="50px"/>
-</a>
-<a href="https://www.twitch.tv/croc3llislive" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" alt="Twitch" width="50px"/>
-</a>
-<a href="https://www.instagram.com/areymadhav/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Instagram_circle.svg" alt="Instagram" width="50px"/>
-</a>
-<a href="https://discord.gg/RhSE2wm" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Discord_White_Text_Logo_%282015-2021%29.svg" alt="Discord" width="100px"/>
-</a>  
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Reverse-Engineering-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game-Dev-black?style=for-the-badge&logo=unity&logoColor=red"/>
+</p>
 
 ---
+
+##  About Me  
+I’m a **cybersecurity researcher**, **reverse engineering addict**, and **part-time game developer**.
+
+I break software **on purpose**, stare at assembly until it makes sense,  
+and rebuild things stronger than before — legally, obviously.
+
+When I’m not deep in:
+- malware  
+- exploits  
+- CTF hell  
+
+I’m probably gaming or sketching cursed ideas that somehow turn into tools.
+
+**Philosophy:**  
+> *Break. Learn. Weaponize knowledge. Repeat.*
+
+---
+
+##  Certifications  
+-  **CEH Master**  
+-  **Certified in Cybersecurity (CC)**  
+-  **DP-900**  
+-  **SC-900**
+
+---
+
+##  Skills & Interests  
+-  CTF Player  
+-  Pentesting  
+-  Cyber Threat Intelligence  
+-  Digital Forensics  
+-  Part-Time Game Dev  
+
+---
+
+##  Hobbies  
+-  Illustration & Design  
+-  Video Editing  
+-  Gaming  
+-  Anime  
+-  Coding random stuff until it works
+
+## GitHub Stats
+
+------
+<h3 align="left">Activity:</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+------
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=AreyMadhav&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=AreyMadhav&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=AreyMadhav&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+---
+
+## Connect With Me  
+<p align="center">
+  <a href="https://www.youtube.com/c/AreyMadhav">
+    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"/>
+  </a>
+  <a href="https://x.com/AreyMadhav">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=red"/>
+  </a>
+  <a href="https://www.twitch.tv/croc3llislive">
+    <img src="https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch&logoColor=red"/>
+  </a>
+  <a href="https://www.instagram.com/areymadhav/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red"/>
+  </a>
+  <a href="https://discord.gg/RhSE2wm">
+    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=red"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+🦇 <b>Stay low. Learn deep. Ship loud.</b>  
+</p>
