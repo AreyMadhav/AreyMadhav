@@ -26,41 +26,69 @@
 
 </div>
 
----
+<!-- ABOUT ME -->
+<h2 align="center">SYSTEM PROFILE</h2>
 
-## About Me
+<div style="background-color:#0b0b0b;border-left:4px solid #ff1a1a;padding:16px;border-radius:6px">
 
-I’m a **cybersecurity researcher** with a problem:  
-I *need* to know how things work — even if that means tearing them apart first.
+<b style="color:#ff1a1a;">[ ABOUT_ME ]</b><br><br>
 
-I spend my time:
-- reversing binaries  
-- dissecting malware  
-- spelunking through memory  
-- yelling at assembly until it behaves  
+I’m a <b>cybersecurity researcher</b> with a problem:<br>
+<i>I need to know how things work — even if that means tearing them apart first.</i>
 
-I build tools not because I *can* —  
+<br><br>
+
+<b style="color:#ff4d4d;">CURRENT OPERATIONS:</b>
+
+<pre>
+▸ reversing binaries
+▸ dissecting malware
+▸ spelunking through memory
+▸ yelling at assembly until it behaves
+</pre>
+
+I build tools not because I <i>can</i> —<br>
 but because existing ones aren’t paranoid enough.
 
-> **Mindset**
-```
+</div>
+
+---
+
+<!-- MINDSET -->
+<h2 align="center">CORE MINDSET</h2>
+
+<div align="center">
+
+```txt
 [ break → analyze → understand → rebuild → secure ]
 ```
 
----
-
-## Certifications
-
--  **CEH Master**
--  **Certified in Cybersecurity (CC)**
--  **DP-900**
--  **SC-900**
+</div>
 
 ---
 
-##  Skills & Loadout
+<!-- CERTIFICATIONS -->
+<h2 align="center">CREDENTIALS LOADED</h2>
 
+<div style="background-color:#0b0b0b;border:1px solid #8b0000;padding:16px;border-radius:6px">
+
+```diff
++ CEH Master
++ Certified in Cybersecurity (CC)
++ DP-900
++ SC-900
 ```
+
+</div>
+
+---
+
+<!-- SKILLS -->
+<h2 align="center">SKILLS & LOADOUT</h2>
+
+<div style="background-color:#0b0b0b;border-left:4px solid #8b0000;padding:16px;border-radius:6px">
+
+```txt
 ▸ Reverse Engineering
 ▸ CTFs & Binary Exploitation
 ▸ Pentesting & Threat Modeling
@@ -69,19 +97,26 @@ but because existing ones aren’t paranoid enough.
 ▸ Game Hacking (for science)
 ```
 
----
-
-##  Side Quests
-
--  Game development experiments
--  Illustration & UI design
--  Video editing
--  Anime + lore deep dives
--  Writing cursed code until it compiles
+</div>
 
 ---
 
-##  GitHub Telemetry
+<!-- SIDE QUESTS -->
+<h2 align="center">SIDE QUESTS</h2>
+
+<div style="background-color:#0b0b0b;border-left:4px solid #660000;padding:16px;border-radius:6px">
+
+```txt
+▸ Game development experiments
+▸ Illustration & UI design
+▸ Video editing
+▸ Anime & lore deep dives
+▸ Writing cursed code until it compiles
+```
+
+</div>
+
+---
 
 <h3 align="left"> Activity</h3>
 
