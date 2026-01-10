@@ -1,14 +1,31 @@
 <!-- RED & BLACK HACKER THEME README -->
 
-<h1 align="center">Hi, I’m AreyMadhav </h1>
-<h3 align="center">Welcome to my GitHub // expect binaries, exploits & chaos</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Reverse-Engineering-darkred?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Game-Dev-black?style=for-the-badge&logo=unity&logoColor=red"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:8b0000&text=Arey%20Madhav&fontColor=ff1a1a&fontSize=64&fontAlignY=35&animation=twinkling&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20Security%20Research%20%7C%20Tool%20Builder&descAlignY=60&descSize=18" />
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arey+Madhav+%F0%9F%91%8B;Cybersecurity+Researcher+%26+Reverse+Engineer;Breaking+Stuff+(Legally);Build.+Break.+Repeat." />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/THEME-RED%20%26%20BLACK-black?style=for-the-badge&labelColor=000000&color=ff1a1a" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=for-the-badge&labelColor=000000&color=8b0000" />
+<img src="https://img.shields.io/badge/Domain-Reverse%20Engineering-black?style=for-the-badge&labelColor=000000&color=ff0000" />
+<img src="https://img.shields.io/badge/Vibe-Dark%20%7C%20Hacker%20%7C%20Noir-black?style=for-the-badge&labelColor=000000&color=660000" />
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AreyMadhav&style=for-the-badge&color=ff1a1a&label=VISITORS" />
+
+</div>
+
+---
+
+<div align="center">
 ---
 
 ##  About Me  
