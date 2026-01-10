@@ -25,19 +25,13 @@
 <img src="https://komarev.com/ghpvc/?username=AreyMadhav&style=for-the-badge&color=ff1a1a&label=PROFILE%20HITS" />
 
 </div>
-
 <!-- ABOUT ME -->
 <h2 align="center">SYSTEM PROFILE</h2>
 
-<div style="background-color:#0b0b0b;border-left:4px solid #ff1a1a;padding:16px;border-radius:6px">
-
-<b style="color:#ff1a1a;">[ ABOUT_ME ]</b><br><br>
-
 I’m a <b>cybersecurity researcher</b> with a problem:<br>
-<i>I need to know how things work — even if that means tearing them apart first.</i>
+<i>I need to know how things work - even if that means tearing them apart first.</i>
 
-<br><br>
-
+---
 <b style="color:#ff4d4d;">CURRENT OPERATIONS:</b>
 
 <pre>
@@ -47,12 +41,10 @@ I’m a <b>cybersecurity researcher</b> with a problem:<br>
 ▸ yelling at assembly until it behaves
 </pre>
 
-I build tools not because I <i>can</i> —<br>
+I build tools not because I <i>can</i> -<br>
 but because existing ones aren’t paranoid enough.
 
 </div>
-
----
 
 <!-- MINDSET -->
 <h2 align="center">CORE MINDSET</h2>
