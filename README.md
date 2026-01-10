@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a **cybersecurity researcher** with a problem:  
 I *need* to know how things work — even if that means tearing them apart first.
@@ -49,16 +49,16 @@ but because existing ones aren’t paranoid enough.
 
 ---
 
-## 🏴‍☠️ Certifications
+## Certifications
 
-- 🩸 **CEH Master**
-- 🛡️ **Certified in Cybersecurity (CC)**
-- ☁️ **DP-900**
-- 🔐 **SC-900**
+-  **CEH Master**
+-  **Certified in Cybersecurity (CC)**
+-  **DP-900**
+-  **SC-900**
 
 ---
 
-## ⚙️ Skills & Loadout
+##  Skills & Loadout
 
 ```
 ▸ Reverse Engineering
@@ -71,19 +71,19 @@ but because existing ones aren’t paranoid enough.
 
 ---
 
-## 🧪 Side Quests
+##  Side Quests
 
-- 🎮 Game development experiments
-- 🎨 Illustration & UI design
-- 🎥 Video editing
-- 🧠 Anime + lore deep dives
-- 💻 Writing cursed code until it compiles
+-  Game development experiments
+-  Illustration & UI design
+-  Video editing
+-  Anime + lore deep dives
+-  Writing cursed code until it compiles
 
 ---
 
-## 📊 GitHub Telemetry
+##  GitHub Telemetry
 
-<h3 align="left">⚡ Activity</h3>
+<h3 align="left"> Activity</h3>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/AreyMadhav)
 
@@ -101,7 +101,7 @@ but because existing ones aren’t paranoid enough.
 
 ---
 
-## 🔗 Connect (If You Dare)
+##  Connect (If You Dare)
 
 <p align="center">
   <a href="https://www.youtube.com/c/AreyMadhav">
