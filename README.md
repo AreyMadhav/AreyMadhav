@@ -126,7 +126,12 @@ but because existing ones aren’t paranoid enough.
 </tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red-dark.svg">
+  <img alt="snake eating commits"
+    src="https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red.svg">
+</picture>
 
 
 ---
