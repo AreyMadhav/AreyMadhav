@@ -126,7 +126,7 @@ but because existing ones aren’t paranoid enough.
 </tr>
 </table>
 
-![Snake animation](https://github.com/AreyMadhav/AreyMadhav/blob/output/github-contribution-grid-snake-dark.svg)
+**![Snake animation](https://github.com/AreyMadhav/AreyMadhav/blob/output/github-contribution-grid-snake-dark.svg)**
 
 
 ---
