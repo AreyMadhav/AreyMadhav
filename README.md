@@ -126,7 +126,7 @@ but because existing ones aren’t paranoid enough.
 </tr>
 </table>
 
-[**![Snake animation]([https://github.com/AreyMadhav/AreyMadhav/blob/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/refs/heads/output/snake-red.svg))**](https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/refs/heads/output/snake-red.svg)
+![Snake animation](https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red.svg)
 
 
 ---
