@@ -1,21 +1,20 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
+      - name: Generate Red Hacker Snake
         uses: Platane/snk@v3
         with:
           github_user_name: AreyMadhav
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-red.svg?palette=github-dark&color_snake=ff0033&color_dots=161b22,8b0000,ff0033,ff5555
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
