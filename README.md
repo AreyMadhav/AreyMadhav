@@ -1,4 +1,9 @@
-<!-- RED & BLACK HACKER THEME README -->
+<!-- ██████╗ ███████╗██████╗      █████╗ ███╗   ██╗██████╗      ██████╗ ██╗      █████╗  ██████╗██╗  ██╗ -->
+<!-- ██╔══██╗██╔════╝██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗    ██╔═══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝ -->
+<!-- ██████╔╝█████╗  ██║  ██║    ███████║██╔██╗ ██║██║  ██║    ██║   ██║██║     ███████║██║     █████╔╝  -->
+<!-- ██╔══██╗██╔══╝  ██║  ██║    ██╔══██║██║╚██╗██║██║  ██║    ██║   ██║██║     ██╔══██║██║     ██╔═██╗  -->
+<!-- ██║  ██║███████╗██████╔╝    ██║  ██║██║ ╚████║██████╔╝    ╚██████╔╝███████╗██║  ██║╚██████╗██║  ██╗ -->
+<!-- ╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ -->
 
 <div align="center">
 
@@ -6,88 +11,98 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arey+Madhav+%F0%9F%91%8B;Cybersecurity+Researcher+%26+Reverse+Engineer;Breaking+Stuff+(Legally);Build.+Break.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=FF1A1A&center=true&vCenter=true&width=900&lines=root%40areymadhav%3A~%24+whoami;Cybersecurity+Researcher+%26+Reverse+Engineer;I+break+things+so+others+don%E2%80%99t;Build.+Break.+Repeat." />
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/THEME-RED%20%26%20BLACK-black?style=for-the-badge&labelColor=000000&color=ff1a1a" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=for-the-badge&labelColor=000000&color=8b0000" />
-<img src="https://img.shields.io/badge/Domain-Reverse%20Engineering-black?style=for-the-badge&labelColor=000000&color=ff0000" />
-<img src="https://img.shields.io/badge/Vibe-Dark%20%7C%20Hacker%20%7C%20Noir-black?style=for-the-badge&labelColor=000000&color=660000" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-black?style=for-the-badge&labelColor=000000&color=8b0000" />
+<img src="https://img.shields.io/badge/SPECIALTY-REVERSE%20ENGINEERING-black?style=for-the-badge&labelColor=000000&color=ff0000" />
+<img src="https://img.shields.io/badge/VIBE-DARK%20HACKER%20NOIR-black?style=for-the-badge&labelColor=000000&color=660000" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AreyMadhav&style=for-the-badge&color=ff1a1a&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=AreyMadhav&style=for-the-badge&color=ff1a1a&label=PROFILE%20HITS" />
 
 </div>
 
 ---
 
-<div align="center">
----
+## 🧠 About Me
 
-##  About Me  
-I’m a **cybersecurity researcher**, **reverse engineering addict**, and **part-time game developer**.
+I’m a **cybersecurity researcher** with a problem:  
+I *need* to know how things work — even if that means tearing them apart first.
 
-I break software **on purpose**, stare at assembly until it makes sense,  
-and rebuild things stronger than before — legally, obviously.
+I spend my time:
+- reversing binaries  
+- dissecting malware  
+- spelunking through memory  
+- yelling at assembly until it behaves  
 
-When I’m not deep in:
-- malware  
-- exploits  
-- CTF hell  
+I build tools not because I *can* —  
+but because existing ones aren’t paranoid enough.
 
-I’m probably gaming or sketching cursed ideas that somehow turn into tools.
-
-**Philosophy:**  
-> *Break. Learn. Weaponize knowledge. Repeat.*
-
----
-
-##  Certifications  
--  **CEH Master**  
--  **Certified in Cybersecurity (CC)**  
--  **DP-900**  
--  **SC-900**
+> **Mindset**
+```
+[ break → analyze → understand → rebuild → secure ]
+```
 
 ---
 
-##  Skills & Interests  
--  CTF Player  
--  Pentesting  
--  Cyber Threat Intelligence  
--  Digital Forensics  
--  Part-Time Game Dev  
+## 🏴‍☠️ Certifications
+
+- 🩸 **CEH Master**
+- 🛡️ **Certified in Cybersecurity (CC)**
+- ☁️ **DP-900**
+- 🔐 **SC-900**
 
 ---
 
-##  Hobbies  
--  Illustration & Design  
--  Video Editing  
--  Gaming  
--  Anime  
--  Coding random stuff until it works
+## ⚙️ Skills & Loadout
 
-## GitHub Stats
-
-------
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-------
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=AreyMadhav&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=AreyMadhav&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=AreyMadhav&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+```
+▸ Reverse Engineering
+▸ CTFs & Binary Exploitation
+▸ Pentesting & Threat Modeling
+▸ Digital Forensics
+▸ Malware Analysis
+▸ Game Hacking (for science)
+```
 
 ---
 
-## Connect With Me  
+## 🧪 Side Quests
+
+- 🎮 Game development experiments
+- 🎨 Illustration & UI design
+- 🎥 Video editing
+- 🧠 Anime + lore deep dives
+- 💻 Writing cursed code until it compiles
+
+---
+
+## 📊 GitHub Telemetry
+
+<h3 align="left">⚡ Activity</h3>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/AreyMadhav)
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://readme-stats-fork-mauve.vercel.app/api?username=AreyMadhav&theme=dark&show_icons=true&count_private=true">
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=AreyMadhav&theme=dark">
+</td>
+<td width="50%" align="center">
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=AreyMadhav&theme=dark&no-frame=true&langs_count=6">
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 Connect (If You Dare)
+
 <p align="center">
   <a href="https://www.youtube.com/c/AreyMadhav">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"/>
@@ -109,5 +124,6 @@ I’m probably gaming or sketching cursed ideas that somehow turn into tools.
 ---
 
 <p align="center">
-🦇 <b>Stay low. Learn deep. Ship loud.</b>  
+🦇 <b>Stay low. Learn deep. Ship loud.</b><br/>
+<sub>Not everything broken is a bug.</sub>
 </p>
