@@ -109,22 +109,29 @@ but because existing ones aren’t paranoid enough.
 </div>
 
 ---
+<div align="center">
 
-<h3 align="left"> Activity</h3>
+## LIVE STATS 
+
+</div>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/AreyMadhav)
 
 <table>
 <tr>
+
 <td width="50%" align="center">
-<img src="https://readme-stats-fork-mauve.vercel.app/api?username=AreyMadhav&theme=dark&show_icons=true&count_private=true">
-<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=AreyMadhav&theme=dark">
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api?username=AreyMadhav&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1&cache_seconds=1800" />
+
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=AreyMadhav&theme=dark&hide_border=true&background=000000&ring=00ffe1&fire=ffd700&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1&cache_seconds=1800" />
+
 </td>
 <td width="50%" align="center">
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=AreyMadhav&theme=dark&no-frame=true&langs_count=6">
-</td>
-</tr>
-</table>
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=AreyMadhav&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" />
+
+</td> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
