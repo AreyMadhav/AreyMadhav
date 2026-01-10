@@ -12,57 +12,21 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate base snake
+      - name: Generate Red Hacker Snake
         uses: Platane/snk@v3
         with:
           github_user_name: AreyMadhav
           outputs: |
-            dist/snake-dark.svg
+            dist/snake-red.svg
+            dist/snake-red-dark.svg
+          color_snake: "#ff0033"
+          color_dots: |
+            #161b22
+            #5a0000
+            #990000
+            #ff0033
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Inject CRT scanlines + red glitch
-        run: |
-          sed -i 's/<svg /<svg style="background:black" /' dist/snake-dark.svg
-
-          sed -i 's/<defs>/<defs>\
-          <filter id="crt">\
-            <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="1" result="noise">\
-              <animate attributeName="baseFrequency" dur="2s" values="0.01;0.02;0.015" repeatCount="indefinite"/>\
-            </feTurbulence>\
-            <feColorMatrix type="matrix" values="\
-              1 0 0 0 0 \
-              0 0.1 0 0 0 \
-              0 0 0.1 0 0 \
-              0 0 0 1 0"/>\
-            <feBlend mode="multiply" in2="noise"/>\
-          </filter>\
-          <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">\
-            <rect width="4" height="2" fill="black" opacity="0.25"/>\
-          </pattern>\
-          <filter id="flicker">\
-            <feColorMatrix type="matrix">\
-              <animate attributeName="values" dur="0.15s" repeatCount="indefinite" values="\
-              1 0 0 0 0 \
-              0 0.05 0 0 0 \
-              0 0 0.05 0 0 \
-              0 0 0 1 0;\
-              1 0 0 0 0 \
-              0 0.2 0 0 0 \
-              0 0 0.2 0 0 \
-              0 0 0 1 0"/>\
-            </feColorMatrix>\
-          </filter>\
-          </defs>/' dist/snake-dark.svg
-
-          sed -i 's/<g /<g filter="url(#crt) url(#flicker)" /' dist/snake-dark.svg
-
-          sed -i 's/<rect/<rect fill="url(#scanlines)" /1' dist/snake-dark.svg
-
-          sed -i 's/#c6e48b/#ff0033/g' dist/snake-dark.svg
-          sed -i 's/#7bc96f/#cc0000/g' dist/snake-dark.svg
-          sed -i 's/#239a3b/#990000/g' dist/snake-dark.svg
-          sed -i 's/#196127/#660000/g' dist/snake-dark.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
